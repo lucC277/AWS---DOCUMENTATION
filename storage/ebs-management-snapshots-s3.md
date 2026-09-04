@@ -1,7 +1,4 @@
-Aqui está a documentação para **Gerenciamento de Armazenamento (EBS, Snapshots Automatizados via Cron/Python e S3 Sync com Versionamento)**, baseada no laboratório fornecido.
-
-Você pode salvar este arquivo na pasta de armazenamento do repositório, por exemplo, como `storage/storage-management-snapshots-s3.md`.
-
+Aqui está a documentação para **Gerenciamento de Armazenamento (EBS, Snapshots Automatizados via Cron/Python e S3 Sync com Versionamento)**, 
 ---
 
 # Advanced Storage Management: EBS Snapshots & S3 Synchronization
